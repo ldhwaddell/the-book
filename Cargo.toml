@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
 
-members = [
-    "projects/guessing_game",
-]
+members = [ "projects/branches", 
+    "projects/guessing_game"
+, "projects/loops"]
