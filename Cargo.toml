@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
 
-members = [ "projects/8/employee_departments", "projects/8/mean_med_mode", "projects/8/pig_latin", "projects/backyard", "projects/branches",
+members = [ "projects/11/adder", "projects/12/minigrep", "projects/8/employee_departments", "projects/8/mean_med_mode", "projects/8/pig_latin", "projects/backyard", "projects/branches",
     "projects/guessing_game"
 , "projects/loops", "projects/rectangles", "projects/restaurant"]
